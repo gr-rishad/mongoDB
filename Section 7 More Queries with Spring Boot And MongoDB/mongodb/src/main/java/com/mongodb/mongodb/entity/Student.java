@@ -27,5 +27,5 @@ public class Student {
     private List<Subject> subjects;
 
     @Transient
-    private double percentage;
+    private double percantage;
 }
